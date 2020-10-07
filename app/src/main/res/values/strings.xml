@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Splash</string>
+    <string name="splash">Splash !</string>
+    <string name="screen_switched">Screen switched !</string>
+    <string name="androidlogo">AndroidLogo</string>
+    <string name="retour">retour</string>
+    <string name="hello_welcome_in_the_3rd_activity">Hello, welcome in the 3rd activity !</string>
+    <string name="suivant">suivant</string>
+</resources>
