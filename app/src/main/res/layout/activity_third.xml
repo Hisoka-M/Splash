@@ -29,4 +29,15 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tv_hello3" />
 
+    <TextView
+        android:id="@+id/tv_infosfilm"
+        android:layout_width="341dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="37dp"
+        android:text="informations :"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_hello3" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
